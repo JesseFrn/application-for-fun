@@ -3,9 +3,9 @@ import React, { useState } from 'react';
 import pic1 from "./englishbay.png";
 import pic2 from "./kitsilano.png";
 import thinkPic from "./think.png";
-import shot1 from "./screenshot1.png";
-import shot2 from "./screenshot2.png";
-import shot3 from "./screenshot3.png";
+import shot1 from "./screencap1.png";
+import shot2 from "./screencap2.png";
+import shot3 from "./screencap3.png";
 
 function App() {
 
