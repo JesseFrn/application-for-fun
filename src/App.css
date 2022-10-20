@@ -1,0 +1,76 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 25px;
+}
+.img {
+  width: 600px;
+  height: 500px;
+  object-fit: contain;
+}
+.buttonsDiv {
+  display: flex;
+  flex-direction: column;
+}
+.button2 {
+  width: 150px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: rgb(109, 233, 8);
+  color: #fff;
+  border-radius: 15px 15px;
+  font-size: 15px;
+}
+.button1 {
+  width: 150px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: rgb(109, 233, 8);
+  color: #fff;
+  border-radius: 15px 15px;
+  font-size: 15px;
+}
+.buttonReset {
+  width: 150px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: rgb(140, 140, 140);
+  color: #fff;
+  border-radius: 15px 15px;
+  font-size: 15px;
+}
+
+.shot1{
+  width: 700px;
+  height: 700px;
+  object-fit: contain;
+  justify-content: center;
+  align-items: center;
+}
+.shot2{
+  width: 700px;
+  height: 700px;
+  object-fit: contain;
+  justify-content: center;
+  align-items: center;
+}
+.shot3{
+  width: 700px;
+  height: 700px;
+  object-fit: contain;
+  justify-content: center;
+  align-items: center;
+}
+.codediv{
+  justify-content: center;
+  align-items: center;
+}
